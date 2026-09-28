@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/meldframe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Meld host/frame network string helpers for config audits.",
+  "bin": {
+    "meldframe": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/meldframe.git"
+  },
+  "homepage": "https://theworker02.github.io/meldframe/",
+  "keywords": [
+    "meld",
+    "frame",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
